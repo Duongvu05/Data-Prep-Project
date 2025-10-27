@@ -156,7 +156,7 @@ Feel free to fork this repository and submit pull requests for improvements.
 
 ## 📧 Contact
 
-For questions or feedback, please contact [your-email@example.com]
+For questions or feedback, please contact [ttrunh692005@gmail.com]
 
 ---
 *This project was created as part of the Data Preparation and Machine Learning course final examination.*
